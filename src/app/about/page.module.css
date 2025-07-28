@@ -28,14 +28,14 @@
 
 .item {
   flex: 1;
-  margin-top: 10px;
+  margin-top: 50px;
   display: flex;
   flex-direction: column;
-  /* gap: 30px; */
+  gap: 30px;
 }
 
 .desc {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 300;
   text-align: justify;
 }
